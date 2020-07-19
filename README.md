@@ -8,6 +8,8 @@ Alien invasion is a basic 2D arcade-style shooter in which the player's goal is 
 fleet of aliens on-screen. The aliens will move side-to-side and towards the player, with increasing speed on each level. The player will
 have three lives to score as many points as possible.
 
+![](alien_invasion/images/alien_invasion.png)
+
 ## How to run:
 Note: In order for the program to work, Pyame must be installed. You can download Pygame at https://www.pygame.org/wiki/GettingStarted.
 
